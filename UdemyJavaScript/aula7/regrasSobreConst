@@ -1,0 +1,21 @@
+// Não podemos criar constantes com palavras reservadas
+
+// constantes precisam ter nomes significativos 
+
+// Não pode começar o nome de uma constantes com um número
+
+// Não podem conter espaços ou traços 
+
+// Utilizamos camelCase (primeira letra da palavra é com letra minuscula e as outras com iniciais maiuscula)
+
+// Case-sensitive variavéis com letra minuscula e letra maiuscula tem diferença (nomecliente é diferente de nomeCliente)
+
+//Não podemos modificar o valor de uma constante
+
+// Não utilizar VAR, Utilizar CONST 
+
+// Operadores aritméticos ( + (adição), - (subtração), * (multiplicação) , / (divisão))
+
+// String = Text | Number = Número
+
+//typeof revela o tipo da variavel
